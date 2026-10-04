@@ -1,0 +1,1 @@
+print ("latihan 3")
